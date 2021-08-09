@@ -1,0 +1,2 @@
+# myscratchpad
+Random learning
